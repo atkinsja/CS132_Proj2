@@ -1,0 +1,70 @@
+
+10/15/2018
+
+American Football Conference
+
+
+AFC EAST		W	L	T	PCT		HOME	ROAD	DIV		CONF			
+New England 	3	2	0	.600	1-1-0	2-1-0	1-0-0	3-2-0	
+NY Jets 		2	3	0	.400	1-2-0	1-1-0	2-0-0	etc
+Buffalo 		2	3	0	.400	1-1-0	1-2-0	0-2-0	
+Miami 			2	3	0	.400	1-1-0	1-2-0	0-1-0	
+
+AFC NORTH		W	L	T	PCT		HOME	ROAD	DIV	
+Baltimore 		4	1	0	.800	3-0-0	1-1-0	2-0-0	
+Cincinnati 		3	2	0	.600	1-1-0	2-1-0	1-1-0	
+Pittsburgh 		2	3	0	.400	2-0-0	0-3-0	0-0-0	
+Cleveland 		0	5	0	.000	0-2-0	0-3-0	0-2-0	
+
+AFC SOUTH		W	L	T	PCT		HOME	ROAD	DIV	
+Houston 		5	0	0	1.000	2-0-0	3-0-0	2-0-0	
+Indianapolis 	2	2	0	.500	2-1-0	0-1-0	0-1-0	
+Tennessee 		2	4	0	.333	2-1-0	0-3-0	0-1-0	
+Jacksonville 	1	4	0	.200	0-3-0	1-1-0	1-1-0	
+
+AFC WEST		W	L	T	PCT		HOME	ROAD	DIV	
+San Diego 		3	2	0	.600	1-1-0	2-1-0	2-0-0	
+Denver 			2	3	0	.400	2-1-0	0-2-0	1-0-0	
+Oakland 		1	3	0	.250	1-1-0	0-2-0	0-2-0	
+Kansas City 	1	4	0	.200	0-3-0	1-1-0	0-1-0	
+
+
+National Football Conference
+
+NFC EAST		W	L	T	PCT		HOME	ROAD	DIV	
+Philadelphia 	3	2	0	.600	2-0-0	1-2-0	1-0-0	
+NY Giants 		3	2	0	.600	2-1-0	1-1-0	0-2-0	
+Dallas 			2	2	0	.500	1-1-0	1-1-0	1-0-0	
+Washington 		2	3	0	.400	0-2-0	2-1-0	0-0-0	
+
+NFC NORTH		W	L	T	PCT		HOME	ROAD	DIV	
+Minnesota 		4	1	0	.800	3-0-0	1-1-0	1-0-0	
+Chicago 		4	1	0	.800	2-0-0	2-1-0	0-1-0	
+Green Bay 		2	3	0	.400	2-1-0	0-2-0	1-0-0	
+Detroit 		1	3	0	.250	1-1-0	0-2-0	0-1-0	
+
+NFC SOUTH		W	L	T	PCT		HOME	ROAD	DIV	
+Atlanta 		5	0	0	1.000	2-0-0	3-0-0	1-0-0	
+Tampa Bay 		1	3	0	.250	1-1-0	0-2-0	1-0-0	
+Carolina 		1	4	0	.200	1-2-0	0-2-0	1-2-0	
+New Orleans 	1	4	0	.200	1-2-0	0-2-0	0-1-0	
+
+NFC WEST		W	L	T	PCT		HOME	ROAD	DIV	
+Arizona 		4	1	0	.800	3-0-0	1-1-0	1-1-0	
+San Francisco 	4	1	0	.800	2-0-0	2-1-0	0-0-0	
+St. Louis 		3	2	0	.600	3-0-0	0-2-0	2-0-0	
+Seattle 		3	2	0	.600	2-0-0	1-2-0	0-2-0
+	
+Glossary
+
+    W: Wins
+    L: Losses
+    T: Ties
+    PCT: Win Percentage
+
+    HOME: Home Record
+    ROAD: Road Record
+    DIV: Division Record
+    
+
+   
